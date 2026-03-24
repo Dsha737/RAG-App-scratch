@@ -1,1 +1,1 @@
-# RAG-App-using-Langchain-OpenAI-FAISS
+# RAG-App-from scratch
